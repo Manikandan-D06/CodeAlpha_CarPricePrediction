@@ -1,0 +1,2 @@
+## About the Project
+Car Price Prediction is a machine learning project that estimates the resale value of cars based on key features such as present price, year of manufacture, kilometers driven, fuel type, transmission, and seller type. The pipeline includes data preprocessing, model training (Linear Regression and Random Forest), evaluation, and deployment through a Streamlit app. It demonstrates end‑to‑end ML workflow design, from exploratory data analysis to interactive prediction, making it a strong portfolio project for showcasing applied data science skills.

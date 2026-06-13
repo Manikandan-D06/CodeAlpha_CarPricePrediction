@@ -1,0 +1,2 @@
+Random Forest RMSE: 0.9263
+Random Forest R²: 0.9628
